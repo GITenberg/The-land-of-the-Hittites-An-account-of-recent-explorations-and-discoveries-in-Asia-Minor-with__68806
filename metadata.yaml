@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '4759'
     url: http://www.gutenberg.org/2009/agents/4759
     wikipedia: https://en.wikipedia.org/wiki/Archibald_Sayce
+covers:
+- cover_type: archival
+  image_path: 68806-h/images/cover.jpg
 creator:
   author:
     agent_name: Garstang, John
     gutenberg_agent_id: '54956'
     url: http://www.gutenberg.org/2009/agents/54956
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68806#The-land-of-the-Hittites-An-account-of-recent-explorations-and-discoveries-in-Asia-Minor-with_
 gutenberg_issued: '2022-08-21'
 identifiers:
   gutenberg: '68806'
